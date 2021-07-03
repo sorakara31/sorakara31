@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sorakara31
+- 👀 I’m interested in machine learning and languages
+- 🌱 I’m currently learning laravel and php
+- 📫 How to reach me rain.isen31@gmail.com
